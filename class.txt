@@ -1,1 +1,3 @@
 This is the first version of class.text
+
+Added a line from master branch 
